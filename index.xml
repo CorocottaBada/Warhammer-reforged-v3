@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03.11" name="Reforged" indexUrl="https://raw.githubusercontent.com/CorocottaBada/Warhammer-Reforged-v3/blob/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
-  <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03.11" dataRevision="402"/>
-    <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="90ff-d5d9-3ca7-598e" dataName="Altos elfos" dataBattleScribeVersion="2.03.11" dataRevision="4"/>
-  </dataIndexEntries>
-</dataIndex>
