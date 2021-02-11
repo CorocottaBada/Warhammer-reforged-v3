@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <dataIndex battleScribeVersion="2.02" name="Reforged" indexUrl="https://raw.githubusercontent.com/DocSavagezgz/Reforged/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer_Reforged_Atalaya_00.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.02" dataRevision="7"/>
+    <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03.11" dataRevision="402"/>
     <dataIndexEntry filePath="Elfos_Oscuros.catz" dataType="catalogue" dataId="3216-304d-aab6-db09" dataName="Elfos Oscuros" dataBattleScribeVersion="2.02" dataRevision="2"/>
     <dataIndexEntry filePath="Enanos_del_Caos.catz" dataType="catalogue" dataId="469c-f68f-07c2-64cc" dataName="Enanos del Caos" dataBattleScribeVersion="2.02" dataRevision="2"/>
     <dataIndexEntry filePath="Vampiros.catz" dataType="catalogue" dataId="d8b4-dbbc-5155-1269" dataName="Vampiros" dataBattleScribeVersion="2.02" dataRevision="2"/>
