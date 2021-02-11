@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Warhammer reforged v3" indexUrl="https://github.com/CorocottaBada/Warhammer-Reforged-v3/blob/master/index.bsi?raw=true https://raw.githubusercontent.com/CorocottaBada/Warhammer-Reforged-v3/blob/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
-  <dataIndexEntries>
+<dataIndex battleScribeVersion="2.03" name="Warhammer reforged v3" indexUrl="https://github.com/CorocottaBada/Warhammer-Reforged-v3/blob/master/index.bsi?raw=true
     <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="402"/>
     <dataIndexEntry filePath="Grey infernal.catz" dataType="catalogue" dataId="d2ea-a0b8-8a9f-e3a5" dataName="Grey infernal" dataBattleScribeVersion="2.03" dataRevision="400"/>
     <dataIndexEntry filePath="Nehekhara.catz" dataType="catalogue" dataId="f0a0-99d0-d4e2-c1f3" dataName="Nehekhara" dataBattleScribeVersion="2.03" dataRevision="401"/>
