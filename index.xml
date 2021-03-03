@@ -3,7 +3,7 @@
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="403"/>
     <dataIndexEntry filePath="Nehekhara.catz" dataType="catalogue" dataId="f0a0-99d0-d4e2-c1f3" dataName="Nehekhara" dataBattleScribeVersion="2.03" dataRevision="401"/>
-    <dataIndexEntry filePath="Skaven.catz" dataType="catalogue" dataId="0838-843b-f148-7874" dataName="Skaven" dataBattleScribeVersion="2.03" dataRevision="400"/>
+    <dataIndexEntry filePath="Skaven.catz" dataType="catalogue" dataId="0838-843b-f148-7874" dataName="Skaven" dataBattleScribeVersion="2.03" dataRevision="402"/>
     <dataIndexEntry filePath="Culto del placer.catz" dataType="catalogue" dataId="a5d3-0db8-9903-f390" dataName="Culto del placer" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Mariemburgo.catz" dataType="catalogue" dataId="0d0b-60b1-02c5-b914" dataName="Mariemburgo" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="503a-36a3-b407-46fb" dataName="Orcos y goblins " dataBattleScribeVersion="2.03" dataRevision="401"/>
@@ -23,6 +23,7 @@
     <dataIndexEntry filePath="Enanos del caos.catz" dataType="catalogue" dataId="469c-f68f-07c2-64cc" dataName="Enanos del caos" dataBattleScribeVersion="2.03" dataRevision="400"/>
     <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="d8b4-dbbc-5155-1269" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="402"/>
     <dataIndexEntry filePath="Mercenarios.catz" dataType="catalogue" dataId="35f6-296f-1bb2-f4a1" dataName="Mercenarios" dataBattleScribeVersion="2.03" dataRevision="403"/>
+    <dataIndexEntry filePath="Clan Pestilens.catz" dataType="catalogue" dataId="f790-9482-e3e4-9b71" dataName="Clan Pestilens" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Clan Eshin.catz" dataType="catalogue" dataId="84e0-639b-248a-20ef" dataName="Clan Eshin" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Bretonia.catz" dataType="catalogue" dataId="a132-ff2a-7f39-4dc4" dataName="Bretonia" dataBattleScribeVersion="2.03" dataRevision="401"/>
     <dataIndexEntry filePath="La horda troll.catz" dataType="catalogue" dataId="b72f-af94-e96d-d55b" dataName="La horda troll" dataBattleScribeVersion="2.03" dataRevision="1"/>
