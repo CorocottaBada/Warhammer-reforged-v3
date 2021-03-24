@@ -6,8 +6,8 @@
     <dataIndexEntry filePath="Skaven.catz" dataType="catalogue" dataId="0838-843b-f148-7874" dataName="Skaven" dataBattleScribeVersion="2.03" dataRevision="403"/>
     <dataIndexEntry filePath="Culto del placer.catz" dataType="catalogue" dataId="a5d3-0db8-9903-f390" dataName="Culto del placer" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Mariemburgo.catz" dataType="catalogue" dataId="0d0b-60b1-02c5-b914" dataName="Mariemburgo" dataBattleScribeVersion="2.03" dataRevision="2"/>
-    <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="503a-36a3-b407-46fb" dataName="Orcos y goblins " dataBattleScribeVersion="2.03" dataRevision="402"/>
-    <dataIndexEntry filePath="Hombres lagarto.catz" dataType="catalogue" dataId="49dd-6404-b794-06e7" dataName="Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="406"/>
+    <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="503a-36a3-b407-46fb" dataName="Orcos y goblins " dataBattleScribeVersion="2.03" dataRevision="403"/>
+    <dataIndexEntry filePath="Hombres lagarto.catz" dataType="catalogue" dataId="49dd-6404-b794-06e7" dataName="Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="407"/>
     <dataIndexEntry filePath="Hobgoblins.catz" dataType="catalogue" dataId="51b8-d71c-a2c1-23c4" dataName="Hobgoblins" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Elfos silvanos.catz" dataType="catalogue" dataId="924e-28e4-3972-c476" dataName="Elfos silvanos" dataBattleScribeVersion="2.03" dataRevision="402"/>
     <dataIndexEntry filePath="Guerreros del caos.catz" dataType="catalogue" dataId="399a-efe8-a7c4-3104" dataName="Guerreros del caos" dataBattleScribeVersion="2.03" dataRevision="403"/>
@@ -46,7 +46,7 @@
     <dataIndexEntry filePath="Clan Dragón Sangriento.catz" dataType="catalogue" dataId="3d03-3105-00ed-9739" dataName="Clan Dragón sangriento" dataBattleScribeVersion="2.03" dataRevision="408"/>
     <dataIndexEntry filePath="Culto de matadores.catz" dataType="catalogue" dataId="18e6-a0ad-d123-70a6" dataName="Culto de matadores" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="3216-304d-aab6-db09" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="403"/>
-    <dataIndexEntry filePath="Las tierras del sur.catz" dataType="catalogue" dataId="12e6-0f80-9cd0-64b7" dataName="Las tierras del sur" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Las tierras del sur.catz" dataType="catalogue" dataId="12e6-0f80-9cd0-64b7" dataName="Las tierras del sur" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Nippón.catz" dataType="catalogue" dataId="0e00-0d9a-c79e-fcfa" dataName="Nippón" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Clan Lahmia.catz" dataType="catalogue" dataId="ee14-7e65-a3af-c099" dataName="Clan Lahmia" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Demonios del caos.catz" dataType="catalogue" dataId="ca36-41ae-f114-eeeb" dataName="Demonios del caos" dataBattleScribeVersion="2.03" dataRevision="402"/>
