@@ -21,6 +21,7 @@
     <dataIndexEntry filePath="Goblins nocturnos.catz" dataType="catalogue" dataId="fa9d-c3b9-2c09-c978" dataName="Goblins nocturnos" dataBattleScribeVersion="2.03" dataRevision="407"/>
     <dataIndexEntry filePath="Goblins silvanos.catz" dataType="catalogue" dataId="2abc-21bd-490b-8e80" dataName="Goblins silvanos" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Enanos del caos.catz" dataType="catalogue" dataId="469c-f68f-07c2-64cc" dataName="Enanos del caos" dataBattleScribeVersion="2.03" dataRevision="404"/>
+    <dataIndexEntry filePath="Khainitas.catz" dataType="catalogue" dataId="d08c-6808-8f98-0d64" dataName="Khainitas" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="d8b4-dbbc-5155-1269" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="408"/>
     <dataIndexEntry filePath="Mercenarios.catz" dataType="catalogue" dataId="35f6-296f-1bb2-f4a1" dataName="Mercenarios" dataBattleScribeVersion="2.03" dataRevision="410"/>
     <dataIndexEntry filePath="Clan Pestilens.catz" dataType="catalogue" dataId="f790-9482-e3e4-9b71" dataName="Clan Pestilens" dataBattleScribeVersion="2.03" dataRevision="2"/>
@@ -45,7 +46,7 @@
     <dataIndexEntry filePath="Ogros.catz" dataType="catalogue" dataId="5ecb-ba09-1673-b6c9" dataName="Ogros" dataBattleScribeVersion="2.03" dataRevision="404"/>
     <dataIndexEntry filePath="Clan Dragón Sangriento.catz" dataType="catalogue" dataId="3d03-3105-00ed-9739" dataName="Clan Dragón sangriento" dataBattleScribeVersion="2.03" dataRevision="409"/>
     <dataIndexEntry filePath="Culto de matadores.catz" dataType="catalogue" dataId="18e6-a0ad-d123-70a6" dataName="Culto de matadores" dataBattleScribeVersion="2.03" dataRevision="3"/>
-    <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="3216-304d-aab6-db09" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="406"/>
+    <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="3216-304d-aab6-db09" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="407"/>
     <dataIndexEntry filePath="Las tierras del sur.catz" dataType="catalogue" dataId="12e6-0f80-9cd0-64b7" dataName="Las tierras del sur" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Nippón.catz" dataType="catalogue" dataId="0e00-0d9a-c79e-fcfa" dataName="Nippón" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Clan Lahmia.catz" dataType="catalogue" dataId="ee14-7e65-a3af-c099" dataName="Clan Lahmia" dataBattleScribeVersion="2.03" dataRevision="2"/>
