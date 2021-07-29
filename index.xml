@@ -14,7 +14,7 @@
     <dataIndexEntry filePath="Guerreros del caos.catz" dataType="catalogue" dataId="399a-efe8-a7c4-3104" dataName="Guerreros del caos" dataBattleScribeVersion="2.03" dataRevision="408"/>
     <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="90ff-d5d9-3ca7-598e" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="406"/>
     <dataIndexEntry filePath="Rasetra.catz" dataType="catalogue" dataId="b754-52bc-23f3-c7ca" dataName="Rasetra" dataBattleScribeVersion="2.03" dataRevision="2"/>
-    <dataIndexEntry filePath="No muertos.catz" dataType="catalogue" dataId="79c7-cc45-fd7a-618d" dataName="No muertos" dataBattleScribeVersion="2.03" dataRevision="409"/>
+    <dataIndexEntry filePath="No muertos.catz" dataType="catalogue" dataId="79c7-cc45-fd7a-618d" dataName="No muertos" dataBattleScribeVersion="2.03" dataRevision="410"/>
     <dataIndexEntry filePath="Caledor.catz" dataType="catalogue" dataId="4bff-f57e-cbdd-cdbc" dataName="Caledor" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Tumularios.catz" dataType="catalogue" dataId="e7d8-5df6-5041-1edf" dataName="Tumularios" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Kislev.catz" dataType="catalogue" dataId="0ecb-7365-2e98-70f6" dataName="Kislev" dataBattleScribeVersion="2.03" dataRevision="408"/>
@@ -29,6 +29,7 @@
     <dataIndexEntry filePath="Clan Eshin.catz" dataType="catalogue" dataId="84e0-639b-248a-20ef" dataName="Clan Eshin" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Bretonia.catz" dataType="catalogue" dataId="a132-ff2a-7f39-4dc4" dataName="Bretonia" dataBattleScribeVersion="2.03" dataRevision="409"/>
     <dataIndexEntry filePath="La horda troll.catz" dataType="catalogue" dataId="b72f-af94-e96d-d55b" dataName="La horda troll" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Legion demoniaca de Slaanesh.catz" dataType="catalogue" dataId="93ff-bd40-ecc2-22d2" dataName="Legion demoniaca de Slaanesh" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Nippon.catz" dataType="catalogue" dataId="0e00-0d9a-c79e-fcfa" dataName="Nippón" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Grey infernal.catz" dataType="catalogue" dataId="d2ea-a0b8-8a9f-e3a5" dataName="Grey infernal" dataBattleScribeVersion="2.03" dataRevision="405"/>
     <dataIndexEntry filePath="La asamblea.catz" dataType="catalogue" dataId="5752-4a70-7461-a2aa" dataName="La asamblea" dataBattleScribeVersion="2.03" dataRevision="3"/>
@@ -40,9 +41,9 @@
     <dataIndexEntry filePath="Cracia.catz" dataType="catalogue" dataId="3acf-3671-ee07-a011" dataName="Cracia" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Kurgan.catz" dataType="catalogue" dataId="619e-e9da-a8e8-4f6f" dataName="Kurgan" dataBattleScribeVersion="2.03" dataRevision="405"/>
     <dataIndexEntry filePath="Clan Moulder.catz" dataType="catalogue" dataId="6113-f207-20c9-f7d6" dataName="Clan Moulder" dataBattleScribeVersion="2.03" dataRevision="2"/>
-    <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="74c4-5959-85e8-14bd" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="410"/>
+    <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="74c4-5959-85e8-14bd" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="411"/>
     <dataIndexEntry filePath="Tren de artilleria de Nuln.catz" dataType="catalogue" dataId="c6d1-0def-81bb-7942" dataName="Tren de artillería de Nuln" dataBattleScribeVersion="2.03" dataRevision="4"/>
-    <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="412"/>
+    <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="413"/>
     <dataIndexEntry filePath="Clan Skryre.catz" dataType="catalogue" dataId="887a-65ec-749f-cd54" dataName="Clan Skryre" dataBattleScribeVersion="2.03" dataRevision="403"/>
     <dataIndexEntry filePath="Loz machotez de Grimgor.catz" dataType="catalogue" dataId="2564-b57a-fd78-2406" dataName="Loz machotez de Grimgor" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Fimir.catz" dataType="catalogue" dataId="fbd6-4fb9-50eb-2fcd" dataName="Fimir" dataBattleScribeVersion="2.03" dataRevision="2"/>
@@ -51,7 +52,7 @@
     <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="3216-304d-aab6-db09" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="410"/>
     <dataIndexEntry filePath="Las tierras del sur.catz" dataType="catalogue" dataId="12e6-0f80-9cd0-64b7" dataName="Las tierras del sur" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Clan Lahmia.catz" dataType="catalogue" dataId="ee14-7e65-a3af-c099" dataName="Clan Lahmia" dataBattleScribeVersion="2.03" dataRevision="2"/>
-    <dataIndexEntry filePath="Demonios del caos.catz" dataType="catalogue" dataId="ca36-41ae-f114-eeeb" dataName="Demonios del caos" dataBattleScribeVersion="2.03" dataRevision="409"/>
+    <dataIndexEntry filePath="Demonios del caos.catz" dataType="catalogue" dataId="ca36-41ae-f114-eeeb" dataName="Demonios del caos" dataBattleScribeVersion="2.03" dataRevision="410"/>
     <dataIndexEntry filePath="Nehekhara. La tierra bendita.catz" dataType="catalogue" dataId="9cd5-1cbb-a09f-032e" dataName="Nehekhara. La tierra bendita" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Clan Von Carstein.catz" dataType="catalogue" dataId="1408-1786-52bb-a9f8" dataName="Clan Von Carstein" dataBattleScribeVersion="2.03" dataRevision="9"/>
   </dataIndexEntries>
