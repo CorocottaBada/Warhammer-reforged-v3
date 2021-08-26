@@ -15,7 +15,7 @@
     <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="90ff-d5d9-3ca7-598e" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="408"/>
     <dataIndexEntry filePath="Rasetra.catz" dataType="catalogue" dataId="b754-52bc-23f3-c7ca" dataName="Rasetra" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="No muertos.catz" dataType="catalogue" dataId="79c7-cc45-fd7a-618d" dataName="No muertos" dataBattleScribeVersion="2.03" dataRevision="414"/>
-    <dataIndexEntry filePath="Caledor.catz" dataType="catalogue" dataId="4bff-f57e-cbdd-cdbc" dataName="Caledor" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="Caledor.catz" dataType="catalogue" dataId="4bff-f57e-cbdd-cdbc" dataName="Caledor" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Tumularios.catz" dataType="catalogue" dataId="e7d8-5df6-5041-1edf" dataName="Tumularios" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Kislev.catz" dataType="catalogue" dataId="0ecb-7365-2e98-70f6" dataName="Kislev" dataBattleScribeVersion="2.03" dataRevision="411"/>
     <dataIndexEntry filePath="Clan Strigoi.catz" dataType="catalogue" dataId="bf04-9129-145c-09f0" dataName="Clan Strigoi" dataBattleScribeVersion="2.03" dataRevision="2"/>
@@ -38,11 +38,11 @@
     <dataIndexEntry filePath="Legion demoniaca de Khorne.catz" dataType="catalogue" dataId="886d-e1a7-8a64-4b2c" dataName="Legion demoniaca de Khorne" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="El valle de los dinosaurios.catz" dataType="catalogue" dataId="f2a0-ff97-4c0c-c6c5" dataName="El valle de los dinosaurios" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Bestias del caos.catz" dataType="catalogue" dataId="51fc-eb9b-4cd8-7ac0" dataName="Bestias del caos" dataBattleScribeVersion="2.03" dataRevision="409"/>
-    <dataIndexEntry filePath="Middenland.catz" dataType="catalogue" dataId="09c4-4a06-8b6c-530f" dataName="Middenland" dataBattleScribeVersion="2.03" dataRevision="6"/>
+    <dataIndexEntry filePath="Middenland.catz" dataType="catalogue" dataId="09c4-4a06-8b6c-530f" dataName="Middenland" dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="Cracia.catz" dataType="catalogue" dataId="3acf-3671-ee07-a011" dataName="Cracia" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Kurgan.catz" dataType="catalogue" dataId="619e-e9da-a8e8-4f6f" dataName="Kurgan" dataBattleScribeVersion="2.03" dataRevision="406"/>
     <dataIndexEntry filePath="Clan Moulder.catz" dataType="catalogue" dataId="6113-f207-20c9-f7d6" dataName="Clan Moulder" dataBattleScribeVersion="2.03" dataRevision="2"/>
-    <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="74c4-5959-85e8-14bd" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="413"/>
+    <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="74c4-5959-85e8-14bd" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="414"/>
     <dataIndexEntry filePath="Tren de artilleria de Nuln.catz" dataType="catalogue" dataId="c6d1-0def-81bb-7942" dataName="Tren de artillería de Nuln" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="416"/>
     <dataIndexEntry filePath="Clan Skryre.catz" dataType="catalogue" dataId="887a-65ec-749f-cd54" dataName="Clan Skryre" dataBattleScribeVersion="2.03" dataRevision="403"/>
@@ -56,6 +56,6 @@
     <dataIndexEntry filePath="Clan Lahmia.catz" dataType="catalogue" dataId="ee14-7e65-a3af-c099" dataName="Clan Lahmia" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Demonios del caos.catz" dataType="catalogue" dataId="ca36-41ae-f114-eeeb" dataName="Demonios del caos" dataBattleScribeVersion="2.03" dataRevision="414"/>
     <dataIndexEntry filePath="Nehekhara. La tierra bendita.catz" dataType="catalogue" dataId="9cd5-1cbb-a09f-032e" dataName="Nehekhara. La tierra bendita" dataBattleScribeVersion="2.03" dataRevision="2"/>
-    <dataIndexEntry filePath="Clan Von Carstein.catz" dataType="catalogue" dataId="1408-1786-52bb-a9f8" dataName="Clan Von Carstein" dataBattleScribeVersion="2.03" dataRevision="12"/>
+    <dataIndexEntry filePath="Clan Von Carstein.catz" dataType="catalogue" dataId="1408-1786-52bb-a9f8" dataName="Clan Von Carstein" dataBattleScribeVersion="2.03" dataRevision="13"/>
   </dataIndexEntries>
 </dataIndex>
