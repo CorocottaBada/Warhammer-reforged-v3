@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Refgorged" indexUrl="https://raw.githubusercontent.com/CorocottaBada/Warhammer-reforged-v3/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Reforged" indexUrl="https://raw.githubusercontent.com/CorocottaBada/Warhammer-reforged-v3/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="412"/>
     <dataIndexEntry filePath="Nehekhara.catz" dataType="catalogue" dataId="f0a0-99d0-d4e2-c1f3" dataName="Nehekhara" dataBattleScribeVersion="2.03" dataRevision="413"/>
@@ -17,7 +17,7 @@
     <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="90ff-d5d9-3ca7-598e" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="409"/>
     <dataIndexEntry filePath="La costa del vampiro.catz" dataType="catalogue" dataId="b0dc-1942-508d-2b7e" dataName="La costa del vampiro" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Rasetra.catz" dataType="catalogue" dataId="b754-52bc-23f3-c7ca" dataName="Rasetra" dataBattleScribeVersion="2.03" dataRevision="3"/>
-    <dataIndexEntry filePath="No muertos.catz" dataType="catalogue" dataId="79c7-cc45-fd7a-618d" dataName="No muertos" dataBattleScribeVersion="2.03" dataRevision="418"/>
+    <dataIndexEntry filePath="No muertos.catz" dataType="catalogue" dataId="79c7-cc45-fd7a-618d" dataName="No muertos" dataBattleScribeVersion="2.03" dataRevision="419"/>
     <dataIndexEntry filePath="Caledor.catz" dataType="catalogue" dataId="4bff-f57e-cbdd-cdbc" dataName="Caledor" dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="Las aventuras de Gotrek y Felix.catz" dataType="catalogue" dataId="b6bc-5ac6-8851-e26e" dataName="Las aventuras de Gotrek y Felix" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Tumularios.catz" dataType="catalogue" dataId="e7d8-5df6-5041-1edf" dataName="Tumularios" dataBattleScribeVersion="2.03" dataRevision="2"/>
@@ -42,12 +42,12 @@
     <dataIndexEntry filePath="Legion demoniaca de Khorne.catz" dataType="catalogue" dataId="886d-e1a7-8a64-4b2c" dataName="Legion demoniaca de Khorne" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Bestias del caos.catz" dataType="catalogue" dataId="51fc-eb9b-4cd8-7ac0" dataName="Bestias del caos" dataBattleScribeVersion="2.03" dataRevision="412"/>
     <dataIndexEntry filePath="Middenland.catz" dataType="catalogue" dataId="09c4-4a06-8b6c-530f" dataName="Middenland" dataBattleScribeVersion="2.03" dataRevision="12"/>
-    <dataIndexEntry filePath="Cracia.catz" dataType="catalogue" dataId="3acf-3671-ee07-a011" dataName="Cracia" dataBattleScribeVersion="2.03" dataRevision="6"/>
+    <dataIndexEntry filePath="Cracia.catz" dataType="catalogue" dataId="3acf-3671-ee07-a011" dataName="Cracia" dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="Kurgan.catz" dataType="catalogue" dataId="619e-e9da-a8e8-4f6f" dataName="Kurgan" dataBattleScribeVersion="2.03" dataRevision="408"/>
     <dataIndexEntry filePath="Clan Moulder.catz" dataType="catalogue" dataId="6113-f207-20c9-f7d6" dataName="Clan Moulder" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="74c4-5959-85e8-14bd" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="419"/>
     <dataIndexEntry filePath="Tren de artilleria de Nuln.catz" dataType="catalogue" dataId="c6d1-0def-81bb-7942" dataName="Tren de artillería de Nuln" dataBattleScribeVersion="2.03" dataRevision="4"/>
-    <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="425"/>
+    <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="426"/>
     <dataIndexEntry filePath="Clan Skryre.catz" dataType="catalogue" dataId="887a-65ec-749f-cd54" dataName="Clan Skryre" dataBattleScribeVersion="2.03" dataRevision="405"/>
     <dataIndexEntry filePath="Loz machotez de Grimgor.catz" dataType="catalogue" dataId="2564-b57a-fd78-2406" dataName="Loz machotez de Grimgor" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Fimir.catz" dataType="catalogue" dataId="fbd6-4fb9-50eb-2fcd" dataName="Fimir" dataBattleScribeVersion="2.03" dataRevision="2"/>
