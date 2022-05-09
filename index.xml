@@ -18,12 +18,13 @@
     <dataIndexEntry filePath="La costa del vampiro.catz" dataType="catalogue" dataId="b0dc-1942-508d-2b7e" dataName="La costa del vampiro" dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="Estalia.catz" dataType="catalogue" dataId="986c-053c-69d2-61fe" dataName="Estalia" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Rasetra.catz" dataType="catalogue" dataId="b754-52bc-23f3-c7ca" dataName="Rasetra" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="Ejercito devoto de Khorne.catz" dataType="catalogue" dataId="d49c-8415-ea97-f255" dataName="Ejercito devoto de Khorne" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="No muertos.catz" dataType="catalogue" dataId="79c7-cc45-fd7a-618d" dataName="No muertos" dataBattleScribeVersion="2.03" dataRevision="427"/>
     <dataIndexEntry filePath="Caledor.catz" dataType="catalogue" dataId="4bff-f57e-cbdd-cdbc" dataName="Caledor" dataBattleScribeVersion="2.03" dataRevision="12"/>
     <dataIndexEntry filePath="Las aventuras de Gotrek y Felix.catz" dataType="catalogue" dataId="b6bc-5ac6-8851-e26e" dataName="Las aventuras de Gotrek y Felix" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Tumularios.catz" dataType="catalogue" dataId="e7d8-5df6-5041-1edf" dataName="Tumularios" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Kislev.catz" dataType="catalogue" dataId="0ecb-7365-2e98-70f6" dataName="Kislev" dataBattleScribeVersion="2.03" dataRevision="417"/>
-    <dataIndexEntry filePath="Clan Strigoi.catz" dataType="catalogue" dataId="bf04-9129-145c-09f0" dataName="Clan Strigoi" dataBattleScribeVersion="2.03" dataRevision="9"/>
+    <dataIndexEntry filePath="Clan Strigoi.catz" dataType="catalogue" dataId="bf04-9129-145c-09f0" dataName="Clan Strigoi" dataBattleScribeVersion="2.03" dataRevision="10"/>
     <dataIndexEntry filePath="Goblins nocturnos.catz" dataType="catalogue" dataId="fa9d-c3b9-2c09-c978" dataName="Goblins nocturnos" dataBattleScribeVersion="2.03" dataRevision="412"/>
     <dataIndexEntry filePath="Goblins silvanos.catz" dataType="catalogue" dataId="2abc-21bd-490b-8e80" dataName="Goblins silvanos" dataBattleScribeVersion="2.03" dataRevision="12"/>
     <dataIndexEntry filePath="Enanos del caos.catz" dataType="catalogue" dataId="469c-f68f-07c2-64cc" dataName="Enanos del caos" dataBattleScribeVersion="2.03" dataRevision="419"/>
@@ -61,7 +62,7 @@
     <dataIndexEntry filePath="Clan Mors.catz" dataType="catalogue" dataId="73d6-1c77-a2fd-f27e" dataName="Clan Mors" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Las tierras del sur.catz" dataType="catalogue" dataId="12e6-0f80-9cd0-64b7" dataName="Las tierras del sur" dataBattleScribeVersion="2.03" dataRevision="11"/>
     <dataIndexEntry filePath="Clan Lahmia.catz" dataType="catalogue" dataId="ee14-7e65-a3af-c099" dataName="Clan Lahmia" dataBattleScribeVersion="2.03" dataRevision="7"/>
-    <dataIndexEntry filePath="Demonios del caos.catz" dataType="catalogue" dataId="ca36-41ae-f114-eeeb" dataName="Demonios del caos" dataBattleScribeVersion="2.03" dataRevision="420"/>
+    <dataIndexEntry filePath="Demonios del caos.catz" dataType="catalogue" dataId="ca36-41ae-f114-eeeb" dataName="Demonios del caos" dataBattleScribeVersion="2.03" dataRevision="421"/>
     <dataIndexEntry filePath="Nehekhara. La tierra bendita.catz" dataType="catalogue" dataId="9cd5-1cbb-a09f-032e" dataName="Nehekhara. La tierra bendita" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Clan Von Carstein.catz" dataType="catalogue" dataId="1408-1786-52bb-a9f8" dataName="Clan Von Carstein" dataBattleScribeVersion="2.03" dataRevision="20"/>
   </dataIndexEntries>
