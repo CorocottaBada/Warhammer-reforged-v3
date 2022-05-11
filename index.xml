@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <dataIndex battleScribeVersion="2.03" name="Reforged" indexUrl="https://raw.githubusercontent.com/CorocottaBada/Warhammer-reforged-v3/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="418"/>
+    <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="419"/>
     <dataIndexEntry filePath="Nehekhara.catz" dataType="catalogue" dataId="f0a0-99d0-d4e2-c1f3" dataName="Nehekhara" dataBattleScribeVersion="2.03" dataRevision="418"/>
     <dataIndexEntry filePath="Skaven.catz" dataType="catalogue" dataId="0838-843b-f148-7874" dataName="Skaven" dataBattleScribeVersion="2.03" dataRevision="415"/>
     <dataIndexEntry filePath="Culto del placer.catz" dataType="catalogue" dataId="a5d3-0db8-9903-f390" dataName="Culto del placer" dataBattleScribeVersion="2.03" dataRevision="4"/>
@@ -48,7 +48,7 @@
     <dataIndexEntry filePath="Kurgan.catz" dataType="catalogue" dataId="619e-e9da-a8e8-4f6f" dataName="Kurgan" dataBattleScribeVersion="2.03" dataRevision="413"/>
     <dataIndexEntry filePath="Clan Moulder.catz" dataType="catalogue" dataId="6113-f207-20c9-f7d6" dataName="Clan Moulder" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Orcos salvajes.catz" dataType="catalogue" dataId="4bae-fa67-c499-31ab" dataName="Orcos salvajes" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="74c4-5959-85e8-14bd" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="427"/>
+    <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="74c4-5959-85e8-14bd" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="428"/>
     <dataIndexEntry filePath="Tren de artilleria de Nuln.catz" dataType="catalogue" dataId="c6d1-0def-81bb-7942" dataName="Tren de artillería de Nuln" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="430"/>
     <dataIndexEntry filePath="Clan Skryre.catz" dataType="catalogue" dataId="887a-65ec-749f-cd54" dataName="Clan Skryre" dataBattleScribeVersion="2.03" dataRevision="407"/>
