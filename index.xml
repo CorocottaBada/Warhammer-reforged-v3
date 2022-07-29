@@ -7,13 +7,13 @@
     <dataIndexEntry filePath="Culto del placer.catz" dataType="catalogue" dataId="a5d3-0db8-9903-f390" dataName="Culto del placer" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Karak Ocho Picos.catz" dataType="catalogue" dataId="c337-f2a5-6412-2a91" dataName="Karak Ocho Picos" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Mariemburgo.catz" dataType="catalogue" dataId="0d0b-60b1-02c5-b914" dataName="Mariemburgo" dataBattleScribeVersion="2.03" dataRevision="9"/>
-    <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="503a-36a3-b407-46fb" dataName="Orcos y goblins " dataBattleScribeVersion="2.03" dataRevision="431"/>
+    <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="503a-36a3-b407-46fb" dataName="Orcos y goblins " dataBattleScribeVersion="2.03" dataRevision="432"/>
     <dataIndexEntry filePath="Hombres lagarto.catz" dataType="catalogue" dataId="49dd-6404-b794-06e7" dataName="Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="417"/>
     <dataIndexEntry filePath="Clan Dragon Sangriento.catz" dataType="catalogue" dataId="3d03-3105-00ed-9739" dataName="Clan Dragón sangriento" dataBattleScribeVersion="2.03" dataRevision="419"/>
     <dataIndexEntry filePath="Valle de los dinosaurios.catz" dataType="catalogue" dataId="f2a0-ff97-4c0c-c6c5" dataName="Valle de los dinosaurios" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Hobgoblins.catz" dataType="catalogue" dataId="51b8-d71c-a2c1-23c4" dataName="Hobgoblins" dataBattleScribeVersion="2.03" dataRevision="8"/>
     <dataIndexEntry filePath="Elfos silvanos.catz" dataType="catalogue" dataId="924e-28e4-3972-c476" dataName="Elfos silvanos" dataBattleScribeVersion="2.03" dataRevision="422"/>
-    <dataIndexEntry filePath="Guerreros del caos.catz" dataType="catalogue" dataId="399a-efe8-a7c4-3104" dataName="Guerreros del caos" dataBattleScribeVersion="2.03" dataRevision="429"/>
+    <dataIndexEntry filePath="Guerreros del caos.catz" dataType="catalogue" dataId="399a-efe8-a7c4-3104" dataName="Guerreros del caos" dataBattleScribeVersion="2.03" dataRevision="430"/>
     <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="90ff-d5d9-3ca7-598e" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="416"/>
     <dataIndexEntry filePath="La costa del vampiro.catz" dataType="catalogue" dataId="b0dc-1942-508d-2b7e" dataName="La costa del vampiro" dataBattleScribeVersion="2.03" dataRevision="9"/>
     <dataIndexEntry filePath="Estalia.catz" dataType="catalogue" dataId="986c-053c-69d2-61fe" dataName="Estalia" dataBattleScribeVersion="2.03" dataRevision="6"/>
@@ -25,9 +25,9 @@
     <dataIndexEntry filePath="Tumularios.catz" dataType="catalogue" dataId="e7d8-5df6-5041-1edf" dataName="Tumularios" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Kislev.catz" dataType="catalogue" dataId="0ecb-7365-2e98-70f6" dataName="Kislev" dataBattleScribeVersion="2.03" dataRevision="420"/>
     <dataIndexEntry filePath="Clan Strigoi.catz" dataType="catalogue" dataId="bf04-9129-145c-09f0" dataName="Clan Strigoi" dataBattleScribeVersion="2.03" dataRevision="11"/>
-    <dataIndexEntry filePath="Goblins nocturnos.catz" dataType="catalogue" dataId="fa9d-c3b9-2c09-c978" dataName="Goblins nocturnos" dataBattleScribeVersion="2.03" dataRevision="413"/>
-    <dataIndexEntry filePath="Goblins silvanos.catz" dataType="catalogue" dataId="2abc-21bd-490b-8e80" dataName="Goblins silvanos" dataBattleScribeVersion="2.03" dataRevision="12"/>
-    <dataIndexEntry filePath="Enanos del caos.catz" dataType="catalogue" dataId="469c-f68f-07c2-64cc" dataName="Enanos del caos" dataBattleScribeVersion="2.03" dataRevision="420"/>
+    <dataIndexEntry filePath="Goblins nocturnos.catz" dataType="catalogue" dataId="fa9d-c3b9-2c09-c978" dataName="Goblins nocturnos" dataBattleScribeVersion="2.03" dataRevision="414"/>
+    <dataIndexEntry filePath="Goblins silvanos.catz" dataType="catalogue" dataId="2abc-21bd-490b-8e80" dataName="Goblins silvanos" dataBattleScribeVersion="2.03" dataRevision="13"/>
+    <dataIndexEntry filePath="Enanos del caos.catz" dataType="catalogue" dataId="469c-f68f-07c2-64cc" dataName="Enanos del caos" dataBattleScribeVersion="2.03" dataRevision="421"/>
     <dataIndexEntry filePath="Khainitas.catz" dataType="catalogue" dataId="d08c-6808-8f98-0d64" dataName="Khainitas" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="d8b4-dbbc-5155-1269" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="422"/>
     <dataIndexEntry filePath="Mercenarios.catz" dataType="catalogue" dataId="35f6-296f-1bb2-f4a1" dataName="Mercenarios" dataBattleScribeVersion="2.03" dataRevision="431"/>
@@ -47,12 +47,13 @@
     <dataIndexEntry filePath="Cracia.catz" dataType="catalogue" dataId="3acf-3671-ee07-a011" dataName="Cracia" dataBattleScribeVersion="2.03" dataRevision="11"/>
     <dataIndexEntry filePath="Kurgan.catz" dataType="catalogue" dataId="619e-e9da-a8e8-4f6f" dataName="Kurgan" dataBattleScribeVersion="2.03" dataRevision="413"/>
     <dataIndexEntry filePath="Clan Moulder.catz" dataType="catalogue" dataId="6113-f207-20c9-f7d6" dataName="Clan Moulder" dataBattleScribeVersion="2.03" dataRevision="3"/>
-    <dataIndexEntry filePath="Orcos salvajes.catz" dataType="catalogue" dataId="4bae-fa67-c499-31ab" dataName="Orcos salvajes" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Orcos salvajes.catz" dataType="catalogue" dataId="4bae-fa67-c499-31ab" dataName="Orcos salvajes" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="74c4-5959-85e8-14bd" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="432"/>
     <dataIndexEntry filePath="Tren de artilleria de Nuln.catz" dataType="catalogue" dataId="c6d1-0def-81bb-7942" dataName="Tren de artillería de Nuln" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="433"/>
     <dataIndexEntry filePath="Clan Skryre.catz" dataType="catalogue" dataId="887a-65ec-749f-cd54" dataName="Clan Skryre" dataBattleScribeVersion="2.03" dataRevision="407"/>
-    <dataIndexEntry filePath="Loz machotez de Grimgor.catz" dataType="catalogue" dataId="2564-b57a-fd78-2406" dataName="Loz machotez de Grimgor" dataBattleScribeVersion="2.03" dataRevision="7"/>
+    <dataIndexEntry filePath="Loz machotez de Grimgor.catz" dataType="catalogue" dataId="2564-b57a-fd78-2406" dataName="Loz machotez de Grimgor" dataBattleScribeVersion="2.03" dataRevision="8"/>
+    <dataIndexEntry filePath="Ejercito devoto de Slaanesh.catz" dataType="catalogue" dataId="2df3-7ad5-61b5-661d" dataName="Ejercito devoto de Slaanesh" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Espadas del caos.catz" dataType="catalogue" dataId="36e9-44aa-523d-fdf6" dataName="Espadas del caos" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Fimir.catz" dataType="catalogue" dataId="fbd6-4fb9-50eb-2fcd" dataName="Fimir" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Ogros.catz" dataType="catalogue" dataId="5ecb-ba09-1673-b6c9" dataName="Ogros" dataBattleScribeVersion="2.03" dataRevision="423"/>
