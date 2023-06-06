@@ -2,7 +2,7 @@
 <dataIndex battleScribeVersion="2.03" name="Reforged" indexUrl="https://raw.githubusercontent.com/CorocottaBada/Warhammer-reforged-v3/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="427"/>
-    <dataIndexEntry filePath="Nehekhara.catz" dataType="catalogue" dataId="f0a0-99d0-d4e2-c1f3" dataName="Nehekhara" dataBattleScribeVersion="2.03" dataRevision="426"/>
+    <dataIndexEntry filePath="Nehekhara.catz" dataType="catalogue" dataId="f0a0-99d0-d4e2-c1f3" dataName="Nehekhara" dataBattleScribeVersion="2.03" dataRevision="427"/>
     <dataIndexEntry filePath="Skaven.catz" dataType="catalogue" dataId="0838-843b-f148-7874" dataName="Skaven" dataBattleScribeVersion="2.03" dataRevision="421"/>
     <dataIndexEntry filePath="Culto del placer.catz" dataType="catalogue" dataId="a5d3-0db8-9903-f390" dataName="Culto del placer" dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="Karak Ocho Picos.catz" dataType="catalogue" dataId="c337-f2a5-6412-2a91" dataName="Karak Ocho Picos" dataBattleScribeVersion="2.03" dataRevision="5"/>
@@ -31,7 +31,7 @@
     <dataIndexEntry filePath="Goblins silvanos.catz" dataType="catalogue" dataId="2abc-21bd-490b-8e80" dataName="Goblins silvanos" dataBattleScribeVersion="2.03" dataRevision="20"/>
     <dataIndexEntry filePath="Enanos del caos.catz" dataType="catalogue" dataId="469c-f68f-07c2-64cc" dataName="Enanos del caos" dataBattleScribeVersion="2.03" dataRevision="426"/>
     <dataIndexEntry filePath="Khainitas.catz" dataType="catalogue" dataId="d08c-6808-8f98-0d64" dataName="Khainitas" dataBattleScribeVersion="2.03" dataRevision="3"/>
-    <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="d8b4-dbbc-5155-1269" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="433"/>
+    <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="d8b4-dbbc-5155-1269" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="434"/>
     <dataIndexEntry filePath="Eataine.catz" dataType="catalogue" dataId="e57c-95b8-d91e-540d" dataName="Eataine" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Nuln.catz" dataType="catalogue" dataId="c6d1-0def-81bb-7942" dataName="Nuln" dataBattleScribeVersion="2.03" dataRevision="12"/>
     <dataIndexEntry filePath="Mercenarios.catz" dataType="catalogue" dataId="35f6-296f-1bb2-f4a1" dataName="Mercenarios" dataBattleScribeVersion="2.03" dataRevision="442"/>
