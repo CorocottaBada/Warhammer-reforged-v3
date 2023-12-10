@@ -18,9 +18,7 @@
     <dataIndexEntry filePath="Guerreros del caos.catz" dataType="catalogue" dataId="399a-efe8-a7c4-3104" dataName="Guerreros del caos" dataBattleScribeVersion="2.03" dataRevision="445"/>
     <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="90ff-d5d9-3ca7-598e" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="429"/>
     <dataIndexEntry filePath="Estalia.catz" dataType="catalogue" dataId="986c-053c-69d2-61fe" dataName="Estalia" dataBattleScribeVersion="2.03" dataRevision="17"/>
-    <dataIndexEntry filePath="Ejercito devoto de Nurgle.catz" dataType="catalogue" dataId="3096-c55e-ae23-6544" dataName="Ejercito devoto de Nurgle" dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="Rasetra.catz" dataType="catalogue" dataId="b754-52bc-23f3-c7ca" dataName="Rasetra" dataBattleScribeVersion="2.03" dataRevision="8"/>
-    <dataIndexEntry filePath="Ejercito devoto de Khorne.catz" dataType="catalogue" dataId="d49c-8415-ea97-f255" dataName="Ejercito devoto de Khorne" dataBattleScribeVersion="2.03" dataRevision="10"/>
     <dataIndexEntry filePath="No muertos.catz" dataType="catalogue" dataId="79c7-cc45-fd7a-618d" dataName="No muertos" dataBattleScribeVersion="2.03" dataRevision="438"/>
     <dataIndexEntry filePath="Caledor.catz" dataType="catalogue" dataId="4bff-f57e-cbdd-cdbc" dataName="Caledor" dataBattleScribeVersion="2.03" dataRevision="23"/>
     <dataIndexEntry filePath="Las aventuras de Gotrek y Felix.catz" dataType="catalogue" dataId="b6bc-5ac6-8851-e26e" dataName="Las aventuras de Gotrek y Felix" dataBattleScribeVersion="2.03" dataRevision="5"/>
@@ -44,22 +42,20 @@
     <dataIndexEntry filePath="Grey infernal.catz" dataType="catalogue" dataId="d2ea-a0b8-8a9f-e3a5" dataName="Grey infernal" dataBattleScribeVersion="2.03" dataRevision="418"/>
     <dataIndexEntry filePath="Los chevaliers de Lyonesse.catz" dataType="catalogue" dataId="1381-17fd-fd1a-17b2" dataName="Los chevaliers de Lyonesse" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Legion demoniaca de Nurgle.catz" dataType="catalogue" dataId="f99a-10a7-0b91-e75f" dataName="Legion demoniaca de Nurgle" dataBattleScribeVersion="2.03" dataRevision="17"/>
-    <dataIndexEntry filePath="La asamblea.catz" dataType="catalogue" dataId="5752-4a70-7461-a2aa" dataName="La asamblea" dataBattleScribeVersion="2.03" dataRevision="20"/>
+    <dataIndexEntry filePath="La asamblea.catz" dataType="catalogue" dataId="5752-4a70-7461-a2aa" dataName="La asamblea" dataBattleScribeVersion="2.03" dataRevision="21"/>
     <dataIndexEntry filePath="Amazonas.catz" dataType="catalogue" dataId="075f-8356-32a1-bdc4" dataName="Amazonas" dataBattleScribeVersion="2.03" dataRevision="17"/>
     <dataIndexEntry filePath="Legion demoniaca de Khorne.catz" dataType="catalogue" dataId="886d-e1a7-8a64-4b2c" dataName="Legion demoniaca de Khorne" dataBattleScribeVersion="2.03" dataRevision="19"/>
     <dataIndexEntry filePath="Bestias del caos.catz" dataType="catalogue" dataId="51fc-eb9b-4cd8-7ac0" dataName="Bestias del caos" dataBattleScribeVersion="2.03" dataRevision="431"/>
     <dataIndexEntry filePath="Middenland.catz" dataType="catalogue" dataId="09c4-4a06-8b6c-530f" dataName="Middenland" dataBattleScribeVersion="2.03" dataRevision="33"/>
     <dataIndexEntry filePath="Cracia.catz" dataType="catalogue" dataId="3acf-3671-ee07-a011" dataName="Cracia" dataBattleScribeVersion="2.03" dataRevision="16"/>
     <dataIndexEntry filePath="Kurgan.catz" dataType="catalogue" dataId="619e-e9da-a8e8-4f6f" dataName="Kurgan" dataBattleScribeVersion="2.03" dataRevision="418"/>
-    <dataIndexEntry filePath="Clan Moulder.catz" dataType="catalogue" dataId="6113-f207-20c9-f7d6" dataName="Clan Moulder" dataBattleScribeVersion="2.03" dataRevision="7"/>
+    <dataIndexEntry filePath="Clan Moulder.catz" dataType="catalogue" dataId="6113-f207-20c9-f7d6" dataName="Clan Moulder" dataBattleScribeVersion="2.03" dataRevision="9"/>
     <dataIndexEntry filePath="Orcos salvajes.catz" dataType="catalogue" dataId="4bae-fa67-c499-31ab" dataName="Orcos salvajes" dataBattleScribeVersion="2.03" dataRevision="10"/>
-    <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="74c4-5959-85e8-14bd" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="452"/>
-    <dataIndexEntry filePath="Ejercito devoto de Tzeentch.catz" dataType="catalogue" dataId="70aa-f00e-1e90-a303" dataName="Ejercito devoto de Tzeentch" dataBattleScribeVersion="2.03" dataRevision="6"/>
+    <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="74c4-5959-85e8-14bd" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="454"/>
     <dataIndexEntry filePath="La hueste roja.catz" dataType="catalogue" dataId="308b-f135-dcd0-c1ff" dataName="La hueste roja" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="457"/>
     <dataIndexEntry filePath="Clan Skryre.catz" dataType="catalogue" dataId="887a-65ec-749f-cd54" dataName="Clan Skryre" dataBattleScribeVersion="2.03" dataRevision="413"/>
     <dataIndexEntry filePath="Loz machotez de Grimgor.catz" dataType="catalogue" dataId="2564-b57a-fd78-2406" dataName="Loz machotez de Grimgor" dataBattleScribeVersion="2.03" dataRevision="16"/>
-    <dataIndexEntry filePath="Ejercito devoto de Slaanesh.catz" dataType="catalogue" dataId="2df3-7ad5-61b5-661d" dataName="Ejercito devoto de Slaanesh" dataBattleScribeVersion="2.03" dataRevision="9"/>
     <dataIndexEntry filePath="Espadas del caos.catz" dataType="catalogue" dataId="36e9-44aa-523d-fdf6" dataName="Espadas del caos" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Fimir.catz" dataType="catalogue" dataId="fbd6-4fb9-50eb-2fcd" dataName="Fimir" dataBattleScribeVersion="2.03" dataRevision="13"/>
     <dataIndexEntry filePath="Ogros.catz" dataType="catalogue" dataId="5ecb-ba09-1673-b6c9" dataName="Ogros" dataBattleScribeVersion="2.03" dataRevision="434"/>
