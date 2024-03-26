@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Warhammer reforged v3" indexUrl="https://raw.githubusercontent.com/CorocottaBada/Warhammer-reforged-v3/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Warhammer regorged v3" indexUrl="https://raw.githubusercontent.com/CorocottaBada/Warhammer-reforged-v3/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="430"/>
     <dataIndexEntry filePath="Tumularios.catz" dataType="catalogue" dataId="e7d8-5df6-5041-1edf" dataName="Tumularios" dataBattleScribeVersion="2.03" dataRevision="8"/>
@@ -21,7 +21,7 @@
     <dataIndexEntry filePath="Eataine.catz" dataType="catalogue" dataId="e57c-95b8-d91e-540d" dataName="Eataine" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="74c4-5959-85e8-14bd" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="456"/>
     <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="457"/>
-    <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="503a-36a3-b407-46fb" dataName="Orcos y goblins " dataBattleScribeVersion="2.03" dataRevision="450"/>
+    <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="503a-36a3-b407-46fb" dataName="Orcos y goblins " dataBattleScribeVersion="2.03" dataRevision="451"/>
     <dataIndexEntry filePath="Clan Necrarca.catz" dataType="catalogue" dataId="d609-5495-4229-bab2" dataName="Clan Necrarca" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Las tierras del sur.catz" dataType="catalogue" dataId="12e6-0f80-9cd0-64b7" dataName="Las tierras del sur" dataBattleScribeVersion="2.03" dataRevision="20"/>
     <dataIndexEntry filePath="Culto del placer.catz" dataType="catalogue" dataId="a5d3-0db8-9903-f390" dataName="Culto del placer" dataBattleScribeVersion="2.03" dataRevision="11"/>
@@ -64,7 +64,7 @@
     <dataIndexEntry filePath="Clan Skryre.catz" dataType="catalogue" dataId="887a-65ec-749f-cd54" dataName="Clan Skryre" dataBattleScribeVersion="2.03" dataRevision="413"/>
     <dataIndexEntry filePath="Clan Moulder.catz" dataType="catalogue" dataId="6113-f207-20c9-f7d6" dataName="Clan Moulder" dataBattleScribeVersion="2.03" dataRevision="10"/>
     <dataIndexEntry filePath="Espadas del caos.catz" dataType="catalogue" dataId="36e9-44aa-523d-fdf6" dataName="Espadas del caos" dataBattleScribeVersion="2.03" dataRevision="5"/>
-    <dataIndexEntry filePath="Grey infernal.catz" dataType="catalogue" dataId="d2ea-a0b8-8a9f-e3a5" dataName="Grey infernal" dataBattleScribeVersion="2.03" dataRevision="418"/>
+    <dataIndexEntry filePath="Grey infernal.catz" dataType="catalogue" dataId="d2ea-a0b8-8a9f-e3a5" dataName="Grey infernal" dataBattleScribeVersion="2.03" dataRevision="419"/>
     <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="90ff-d5d9-3ca7-598e" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="432"/>
     <dataIndexEntry filePath="Hobgoblins.catz" dataType="catalogue" dataId="51b8-d71c-a2c1-23c4" dataName="Hobgoblins" dataBattleScribeVersion="2.03" dataRevision="13"/>
     <dataIndexEntry filePath="Norsca.catz" dataType="catalogue" dataId="5337-e930-8edb-b839" dataName="Norsca" dataBattleScribeVersion="2.03" dataRevision="14"/>
