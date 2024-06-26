@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Warhammer Reforged" indexUrl="https://raw.githubusercontent.com/CorocottaBada/Warhammer-reforged-v3/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Warhammer reforged" indexUrl="https://raw.githubusercontent.com/CorocottaBada/Warhammer-reforged-v3/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="431"/>
     <dataIndexEntry filePath="Tumularios.catz" dataType="catalogue" dataId="e7d8-5df6-5041-1edf" dataName="Tumularios" dataBattleScribeVersion="2.03" dataRevision="9"/>
@@ -28,7 +28,7 @@
     <dataIndexEntry filePath="Karak Ocho Picos.catz" dataType="catalogue" dataId="c337-f2a5-6412-2a91" dataName="Karak Ocho Picos" dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="Clan Eshin.catz" dataType="catalogue" dataId="84e0-639b-248a-20ef" dataName="Clan Eshin" dataBattleScribeVersion="2.03" dataRevision="18"/>
     <dataIndexEntry filePath="Hombres lagarto.catz" dataType="catalogue" dataId="49dd-6404-b794-06e7" dataName="Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="432"/>
-    <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="3216-304d-aab6-db09" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="438"/>
+    <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="3216-304d-aab6-db09" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="439"/>
     <dataIndexEntry filePath="Kislev.catz" dataType="catalogue" dataId="0ecb-7365-2e98-70f6" dataName="Kislev" dataBattleScribeVersion="2.03" dataRevision="432"/>
     <dataIndexEntry filePath="Las aventuras de Gotrek y Felix.catz" dataType="catalogue" dataId="b6bc-5ac6-8851-e26e" dataName="Las aventuras de Gotrek y Felix" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Fimir.catz" dataType="catalogue" dataId="fbd6-4fb9-50eb-2fcd" dataName="Fimir" dataBattleScribeVersion="2.03" dataRevision="13"/>
@@ -64,7 +64,7 @@
     <dataIndexEntry filePath="Clan Skryre.catz" dataType="catalogue" dataId="887a-65ec-749f-cd54" dataName="Clan Skryre" dataBattleScribeVersion="2.03" dataRevision="413"/>
     <dataIndexEntry filePath="Clan Moulder.catz" dataType="catalogue" dataId="6113-f207-20c9-f7d6" dataName="Clan Moulder" dataBattleScribeVersion="2.03" dataRevision="10"/>
     <dataIndexEntry filePath="Espadas del caos.catz" dataType="catalogue" dataId="36e9-44aa-523d-fdf6" dataName="Espadas del caos" dataBattleScribeVersion="2.03" dataRevision="5"/>
-    <dataIndexEntry filePath="Grey infernal.catz" dataType="catalogue" dataId="d2ea-a0b8-8a9f-e3a5" dataName="Grey infernal" dataBattleScribeVersion="2.03" dataRevision="421"/>
+    <dataIndexEntry filePath="Grey infernal.catz" dataType="catalogue" dataId="d2ea-a0b8-8a9f-e3a5" dataName="Grey infernal" dataBattleScribeVersion="2.03" dataRevision="422"/>
     <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="90ff-d5d9-3ca7-598e" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="434"/>
     <dataIndexEntry filePath="Hobgoblins.catz" dataType="catalogue" dataId="51b8-d71c-a2c1-23c4" dataName="Hobgoblins" dataBattleScribeVersion="2.03" dataRevision="13"/>
     <dataIndexEntry filePath="Norsca.catz" dataType="catalogue" dataId="5337-e930-8edb-b839" dataName="Norsca" dataBattleScribeVersion="2.03" dataRevision="14"/>
