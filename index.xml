@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <dataIndex battleScribeVersion="2.03" name="Warhammer reforged" indexUrl="https://raw.githubusercontent.com/CorocottaBada/Warhammer-reforged-v3/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="431"/>
+    <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="432"/>
     <dataIndexEntry filePath="Hobgoblins.catz" dataType="catalogue" dataId="51b8-d71c-a2c1-23c4" dataName="Hobgoblins" dataBattleScribeVersion="2.03" dataRevision="13"/>
     <dataIndexEntry filePath="Loz machotez de Grimgor.catz" dataType="catalogue" dataId="2564-b57a-fd78-2406" dataName="Loz machotez de Grimgor" dataBattleScribeVersion="2.03" dataRevision="17"/>
     <dataIndexEntry filePath="Guerreros del caos.catz" dataType="catalogue" dataId="399a-efe8-a7c4-3104" dataName="Guerreros del caos" dataBattleScribeVersion="2.03" dataRevision="448"/>
